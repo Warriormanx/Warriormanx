@@ -53,7 +53,7 @@ still a learner with the idea of <b>implementing</b> my work and growing into an
 -->
 ### 🤝 Connect with me:
 
-- [LinkedIn](www.linkedin.com/in/aayush-raj-906562251)
+- [LinkedIn](https://linkedin.com/in/aayush-raj-906562251)
 <!-- - [Portfolio](https://yourwebsite.com) -->
 - [Twitter](https://x.com/aayushraj_01)
 
