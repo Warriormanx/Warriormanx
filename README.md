@@ -41,16 +41,16 @@ still a learner with the idea of <b>implementing</b> my work and growing into an
 </p>
 
 ---
-<!--
+
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Warriormanx&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warriormanx&layout=compact&theme=tokyonight" />
 </p>
 
 ---
--->
+
 ### 🤝 Connect with me:
 
 - [LinkedIn](https://linkedin.com/in/aayush-raj-906562251)
