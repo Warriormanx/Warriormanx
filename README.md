@@ -37,7 +37,10 @@ still a learner with the idea of <b>implementing</b> my work and growing into an
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </p>
 </p>
 
 ---
@@ -51,9 +54,13 @@ still a learner with the idea of <b>implementing</b> my work and growing into an
 
 ### 🤝 Connect with me:
 
-- [LinkedIn](https://linkedin.com/in/aayush-raj-906562251)
-<!-- - [Portfolio](https://yourwebsite.com) -->
-- [Twitter](https://x.com/aayushraj_01)
+ <a href="https://linkedin.com/in/aayush-raj-906562251/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+  <a href="https://x.com/aayushraj_01" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X (Twitter)" width="40" height="40"/>
+</a>
 
 ---
 
