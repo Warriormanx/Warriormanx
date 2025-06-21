@@ -58,9 +58,6 @@ still a learner with the idea of <b>implementing</b> my work and growing into an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
-  <a href="https://x.com/aayushraj_01" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X (Twitter)" width="40" height="40"/>
-</a>
 
 <a href="https://hub.docker.com/u/warriormanx" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="DockerHub" width="40" height="40"/>
