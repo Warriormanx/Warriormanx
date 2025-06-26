@@ -47,7 +47,7 @@ still a learner with the idea of <b>implementing</b> my work and growing into an
 
 ### 📈 GitHub Stats:
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Warriormanx&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=warriormanx&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   
 
 ---
